@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "shop": "院落创意菜",
+        "picture": "https://ns-strategy.cdn.bcebos.com/ns-strategy/upload/fc_big_pic/part-00098-1206.jpg",
+        "product":"百香果1杯",
+        "price": 19.9,
+        "ifCommented": true,
+        "starts":3,
+        "comment":""
+    },
+    {
+        "id":2,
+        "shop": "谭记酸菜鱼",
+        "picture": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1608022625478&di=3915ab25f692729a8121b1cf9adf4033&imgtype=0&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D4154130268%2C4276395140%26fm%3D214%26gp%3D0.jpg",
+        "product":"酸菜鱼",
+        "price": 79.9,
+        "ifCommented": false
+    },
+    {
+        "id":3,
+        "shop": "西北莜面",
+        "picture": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1608022729634&di=1af2c39fb378996cc1c12976be7ca824&imgtype=0&src=http%3A%2F%2Fculture.sxgov.cn%2Fimage%2Fattachement%2Fjpg%2Fsite2%2F20160722%2Ff80f41af279218fc200004.jpg",
+        "product":"莜面",
+        "price": 39.9,
+        "ifCommented": false
+    }
+]

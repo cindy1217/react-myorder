@@ -1,0 +1,8 @@
+.order-header{
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 16px;
+    background-color: rgb(233, 58, 5);
+    color: #fff;
+}
